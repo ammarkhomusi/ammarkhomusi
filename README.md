@@ -1,8 +1,8 @@
 <h1>Hey there, I'm <a  href="https://github.com/ammarkhomusi/">Ammar Khomusi </a> <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
-[![linkedin badge](https://img.shields.io/badge/tanyagupta0201-30302f?style=flat&logo=linkedin)](https://www.linkedin.com/in/ammarkhomusi)
-[![Gmail Badge](https://img.shields.io/badge/tanyagupta.pg@gmail.com-30302f?style=flat&logo=Gmail&logoColor=red)](mailto:ammarkhomusi@gmail.com)
-<img src="https://komarev.com/ghpvc/?username=tanyagupta0201&style=plastic" />
+[![linkedin badge](https://img.shields.io/badge/ammarkhomusi0201-30302f?style=flat&logo=linkedin)](https://www.linkedin.com/in/ammarkhomusi)
+[![Gmail Badge](https://img.shields.io/badge/ammarkhomusi@gmail.com-30302f?style=flat&logo=Gmail&logoColor=red)](mailto:ammarkhomusi@gmail.com)
+<img src="https://komarev.com/ghpvc/?username=ammarkhomusi0201&style=plastic" />
 
 I'm a CSE undergraduate passionate programmer who loves to code. I am creatively curious and a self learner. I love exploring new technologies and currently learning new skills. <br>
 <img align='right' src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" width="250" height="210">
