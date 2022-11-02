@@ -1,6 +1,6 @@
 <h1>Hey there, I'm <a  href="https://github.com/ammarkhomusi/">Ammar Khomusi </a> <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
-[![linkedin badge](https://img.shields.io/badge/ammarkhomusi-30302f?style=flat&logo=linkedin)](https://www.linkedin.com/in/ammarkhomusi)
+[![linkedin badge](https://img.shields.io/badge/ammar-khomusi-30302f?style=flat&logo=linkedin)](https://www.linkedin.com/in/ammarkhomusi)
 [![Gmail Badge](https://img.shields.io/badge/ammarkhomusi@gmail.com-30302f?style=flat&logo=Gmail&logoColor=red)](mailto:ammarkhomusi@gmail.com)
 <img src="https://komarev.com/ghpvc/?username=ammarkhomusi&style=plastic" />
 
