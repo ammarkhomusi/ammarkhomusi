@@ -4,6 +4,7 @@
 [![Gmail Badge](https://img.shields.io/badge/ammarkhomusi@gmail.com-30302f?style=flat&logo=Gmail&logoColor=red)](mailto:ammarkhomusi@gmail.com)
 <img src="https://komarev.com/ghpvc/?username=ammarkhomusi&style=plastic" />
 
+
 I'm a CSE undergraduate passionate programmer who loves to code. I am creatively curious and a self learner. I love exploring new technologies and currently learning new skills. <br>
 
 - 🌱 I’m currently focusing on **FrontEnd Development** with focus on **UI/UX**.
