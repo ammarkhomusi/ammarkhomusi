@@ -5,7 +5,6 @@
 <img src="https://komarev.com/ghpvc/?username=ammarkhomusi&style=plastic" />
 
 I'm a CSE undergraduate passionate programmer who loves to code. I am creatively curious and a self learner. I love exploring new technologies and currently learning new skills. <br>
-<img align='right' src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" width="250" height="210">
 
 - 🌱 I’m currently focusing on **FrontEnd Development** with focus on **UI/UX**.
 - 💬 UI and Front-End development is my passion. I am a fast learner and a driven developer. I enjoy embracing and adapting to new technologies.
